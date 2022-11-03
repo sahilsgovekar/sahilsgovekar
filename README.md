@@ -1,5 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQE4hs3DKzH57g/profile-displaybackgroundimage-shrink_200_800/0/1663061435996?e=2147483647&v=beta&t=x0gDzziDhXaMh_Mgr80RKsXibdR8EcngSroO30EExgo)
 
+[![@sahilsgovekar's Holopin board](https://holopin.me/sahilsgovekar)](https://holopin.io/@sahilsgovekar)
 
 <h1 align="center">Hey Bot✌️ , I'm Sahil Govekar :-)</h1>
 <h3 align="center">Engineer by Passion and Profession, Frustrated one though..!!</h3>
@@ -13,9 +14,6 @@
 - 💬 Ask me about **Anything, " I Love Brainstroming "**
 
 - 📫 How to reach me **sahilgovekarpersonal@gmail.com**
-
-<h3>Badges </h3>
-[![@sahilsgovekar's Holopin board](https://holopin.me/sahilsgovekar)](https://holopin.io/@sahilsgovekar)
 
 
 <h3 align="left">Connect with me:</h3>
